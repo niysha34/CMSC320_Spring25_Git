@@ -1,0 +1,3 @@
+Q2: What field could data science be applied to? Give an Example.
+
+Answer: You can apply it to biology to look at genes amd some properties of them. Or finance to view investment trends in relation to some other variables.
