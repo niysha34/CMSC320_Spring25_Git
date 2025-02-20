@@ -10,3 +10,7 @@ Answer: You can apply it to biology to look at genes amd some properties of them
 Q3: What is the difference between Merging and Rebasing?
 
 Answer: Merging will combine two branches, while rebasing will rewrite one branch with another. One of the branches is essentially erased in rebasing.
+
+Q4: What are you looking forward to this semester?
+
+Answer: Being done with finals and warmer weather.
