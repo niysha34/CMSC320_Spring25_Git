@@ -5,3 +5,8 @@ Answer: Because it has easier version management even with multiple contributers
 Q2: What field could data science be applied to? Give an Example.
 
 Answer: You can apply it to biology to look at genes amd some properties of them. Or finance to view investment trends in relation to some other variables.
+
+
+Q3: What is the difference between Merging and Rebasing?
+
+Answer: Merging will combine two branches, while rebasing will rewrite one branch with another. One of the branches is essentially erased in rebasing.
